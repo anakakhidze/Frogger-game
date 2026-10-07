@@ -19,5 +19,5 @@ A classic 2D arcade Frogger clone built using **Lua** and the **LÖVE (Love2D)**
 1. **Install LÖVE:** Download and install [LÖVE](https://love2d.org/).
 2. **Clone this repository:**
    ```bash
-   git clone https://github.com/anakakhidze/Frogger.git
-   cd Frogger
+   git clone https://github.com/anakakhidze/frogger-game.git
+   cd frogger-game
